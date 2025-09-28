@@ -1,0 +1,4 @@
+MCP_SERVER_URL: 'your-mcp-url'
+OPENAI_API_KEY: 'your-openai-api-key'
+model_source: 'openai'
+HOST_OVERRIDE: 'your-a2a-server-agent-url'
