@@ -1,6 +1,7 @@
 # Weather Agent Tutorial
 
-This repository contains the code for a step-by-step tutorial on how to build and deploy a weather agent using LangChain, MCP, and Google Cloud Run. It is creataed for my medium story: https://medium.com/@peiqingz/building-ai-agents-from-tools-and-context-to-mcp-and-a2a-protocols-f3ccadb5f1da
+This repository contains the code for a step-by-step tutorial on how to build and deploy a weather agent using LangChain, MCP, and Google Cloud Run.
+It is created for my Medium Story at: https://medium.com/@peiqingz/building-ai-agents-from-tools-and-context-to-mcp-and-a2a-protocols-f3ccadb5f1da
 
 ## Project Structure
 
